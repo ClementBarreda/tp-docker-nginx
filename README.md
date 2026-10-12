@@ -2,6 +2,8 @@
 
 Conteneurisation d'un site statique avec nginx.
 
+Image publique : `ghcr.io/clementbarreda/mon-site:1.0`
+
 ## Prérequis
 - Docker installé (`docker --version`)
 
